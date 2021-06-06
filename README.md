@@ -1,4 +1,4 @@
-# welcome!
+# Non-GUI-Chat 
 This project is non GUI chat application between two remote hosts 
 on the internet..
 
